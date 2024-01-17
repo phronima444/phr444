@@ -1,0 +1,19 @@
+
+Points Clés sur le Trading d'Options du Projet
+----------------------------------------------
+
+1. Adoption de Stratégies de Trading d'Options:
+   - Intégration de mécanismes de trading d'options dans le script de trading pour augmenter les profits potentiels.
+   - Reconnaissance des risques plus élevés liés au trading d'options.
+
+2. Stratégies Spécifiques:
+   - Iron Condor: Efficace dans des conditions de faible volatilité.
+   - LEAPS: Pour des gains à long terme.
+
+3. Gestion des Risques:
+   - Gérer efficacement les risques associés.
+   - Adapter l'implémentation en fonction des scripts existants.
+
+4. Réalisme et Prudence:
+   - Ne pas s'attendre à des retours de 1000% sans une gestion prudente des risques.
+   - Éviter les promesses irréalistes et se concentrer sur des stratégies solides.

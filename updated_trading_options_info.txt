@@ -1,0 +1,23 @@
+
+Informations sur le Trading d'Options
+-------------------------------------
+
+1. Incorporation de Mécanismes de Trading d'Options:
+   - Le trading d'options sera intégré dans le script 'updated_trading_script_performance_optimization.py'.
+   - Le trading d'options permet de contrôler plus d'actions avec moins d'argent, offrant un potentiel de profit plus élevé, mais avec un risque plus important.
+
+2. Stratégies de Trading d'Options:
+   - Iron Condor: Utilisé en cas de faible volatilité du marché, implique la vente et l'achat d'options put et call hors de la monnaie.
+   - LEAPS: Stratégie pour des gains significatifs sur le long terme.
+
+3. Gestion des Risques:
+   - Importance de gérer efficacement les risques associés au trading d'options.
+   - La mise en œuvre dépend des fonctionnalités spécifiques des scripts existants.
+
+4. Potentiel de Gains Élevés:
+   - Stratégies visant des augmentations de valeur de 1000%.
+   - Nécessité d'une implémentation prudente dans le script existant.
+
+5. Prudence et Réalisme:
+   - La prudence est de mise : la taille de la position détermine le risque, pas uniquement le type de produit.
+   - Méfiance vis-à-vis des promesses de retours de 1000%.

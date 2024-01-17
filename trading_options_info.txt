@@ -1,0 +1,25 @@
+
+Informations sur le Trading d'Options
+-------------------------------------
+
+Le trading d'options est une forme de trading de produits dérivés où un contrat donne le droit, mais non l'obligation, d'acheter ou de vendre un actif sous-jacent à un prix fixé à une date spécifique ou avant.
+
+Types d'options:
+1. Call Option: Donne le droit d'acheter l'actif sous-jacent.
+2. Put Option: Donne le droit de vendre l'actif sous-jacent.
+
+Stratégies de base:
+- Achat de Calls: Spéculer sur la hausse du prix de l'actif.
+- Achat de Puts: Spéculer sur la baisse du prix de l'actif.
+- Vente de Calls: Générer des revenus avec des actifs détenus.
+- Vente de Puts: Potentiellement acheter un actif à un prix inférieur.
+
+Risques:
+- Les options peuvent expirer sans valeur, entraînant une perte du montant investi.
+- Le trading d'options implique un effet de levier, ce qui peut amplifier les gains et les pertes.
+
+Conseils:
+- Comprendre les bases du marché sous-jacent.
+- Utiliser les options dans le cadre d'une stratégie de trading globale.
+- Faire attention à la date d'expiration et au prix d'exercice.
+- Gérer le risque en ne investissant pas plus que ce que vous pouvez vous permettre de perdre.

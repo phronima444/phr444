@@ -1,0 +1,69 @@
+# Paramètres configurables
+# Initialisation du client Binance
+# Configuration du module de journalisation
+# Vérifier si les clés sont définies
+# Initialisation de l'exchange Binance avec clé API et secret
+# Initialize the Binance client
+# Liste des symboles pour lesquels des ordres d'achat ont été exécutés
+# Récupération de l'adresse du wallet externe depuis le fichier de configuration
+# Fonction pour attendre l'exécution complète de l'ordre de vente
+# Récupérer l'état de l'ordre de vente
+# Attendre un certain temps avant de vérifier à nouveau
+# Fonction pour transférer une partie de la plus-value vers le wallet externe
+# Calcul de la plus-value
+# Transférer une partie de la plus-value vers le wallet externe
+# Effectuer le retrait sur le réseau BSC
+# Fonction d'analyse technique
+# Sélectionner uniquement les tokens en Momentum haussier
+# Éviter les tokens en retournement sur William's Percent Range
+# Identifie et sélectionne uniquement les tokens avec un MACD haussier
+# Fonction pour traiter chaque chunk de symboles
+# Fonction de traitement pour chaque symbole
+# Récupération des données OHLCV
+# Création d'un DataFrame avec les données historiques
+# Analyse de la variation sur 5 secondes
+# Vérification des conditions d'achat
+# Conditions d'analyse technique supplémentaires
+# Ajoutez ici votre code pour la procédure d'achat
+# Par exemple :
+# Ajouter le symbole à la liste des symboles achetés
+# Récupérer le prix d'achat et la quantité de l'ordre
+# Fetch the last executed order
+# Vérification des symboles à vendre
+# Get the initial buy price
+# Place a sell limit order of 3% below the buy price
+# Fonction pour sauvegarder l'état
+# Ajoutez d'autres éléments d'état au besoin
+# Fonction pour restaurer l'état
+# Restaurez d'autres éléments d'état au besoin
+# Aucun fichier d'état précédent trouvé
+# Fonction pour gérer les erreurs de manière centralisée
+# Ajoutez ici des actions supplémentaires en cas d'erreur
+# Chargement de l'état précédent
+# Boucle principale
+# Récupération du solde et affichage
+# Calcul de la capacité à investir
+# Analyse des actifs négociables
+# Récupération des paires de trading depuis le fichier de configuration
+# Récupération des informations ticker pour les paires de trading
+# Utilisation de ThreadPoolExecutor pour paralléliser le traitement des symboles
+# Sauvegarde de l'état après chaque itération
+# Attendre un certain temps avant de relancer la boucle
+# Fonction d'analyse technique
+# Sélectionner uniquement les tokens en Momentum haussier
+# Éviter les tokens en retournement sur William's Percent Range
+# Identifie et sélectionne uniquement les tokens avec un MACD haussier
+# Modification de la fonction process_symbol pour inclure l'analyse technique
+# Récupération des données OHLCV
+# Création d'un DataFrame avec les données historiques
+# Analyse de la variation sur 5 secondes
+# Vérification des conditions d'achat
+# Conditions d'analyse technique supplémentaires
+# Le reste de la logique d'achat reste inchangé
+# ...
+# Nouvelle fonction pour sélectionner le token à acheter
+# Récupération des données OHLCV
+# Création d'un DataFrame avec les données historiques
+# Analyse de la variation sur 5 secondes
+# Vérification des conditions d'analyse technique
+# Choix du token avec la plus grande variation positive sur 5 secondes

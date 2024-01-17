@@ -1,0 +1,24 @@
+
+Résumé du Projet de Trading
+----------------------------
+
+Objectif:
+- Développer un script de trading capable de réaliser une plus-value de 1000% en utilisant les meilleures stratégies de trading disponibles sur Internet.
+
+Tâches Principales:
+1. Télécharger les scripts 'oracle4.py' et 'updated_trading_script_performance_optimization.py' depuis un dépôt Git.
+2. Combiner et optimiser ces scripts pour développer un script de trading hautement performant.
+
+Contraintes et Ressources de l'Agent IA:
+- Utilisation exclusive de commandes spécifiques.
+- Impossibilité de démarrer des tâches en arrière-plan ou d'interagir avec des objets physiques.
+- Nécessité de se conformer aux lois et réglementations en matière de trading.
+- Usage d'Internet pour la recherche d'informations.
+- Capacité de lire et d'écrire des fichiers.
+- Utilisation des connaissances factuelles acquises lors de la formation du modèle de langage.
+
+Meilleures Pratiques:
+- Analyse continue des actions pour garantir une performance optimale.
+- Autocritique constructive et réflexion sur les décisions et stratégies passées.
+- Recherche et utilisation des stratégies de trading les plus efficaces.
+- Test du script final pour assurer sa performance avant mise en œuvre.
